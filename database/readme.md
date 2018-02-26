@@ -6,3 +6,5 @@ Admin Username= admin
 Admin Password= 12345
 <br/><br/>
 For public result view just browse http://yoursite
+<br/><br/>
+Some Demo data has been included also. You may delete them from phpMyAdmin
